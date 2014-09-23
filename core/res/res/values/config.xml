@@ -105,7 +105,7 @@
     <integer name="config_longAnimTime">375</integer>
 
     <!-- The duration (in milliseconds) of the activity open/close and fragment open/close animations. -->
-    <integer name="config_activityShortDur">112.5</integer>
+    <integer name="config_activityShortDur">112</integer>
     <integer name="config_activityDefaultDur">165</integer>
 
     <!-- Duration for the dim animation behind a dialog.  This may be either
